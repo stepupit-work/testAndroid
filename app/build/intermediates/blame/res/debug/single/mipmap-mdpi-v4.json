@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\ankur_gupta1\\AndroidStudioProjects\\PhotoIntentActivity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\icon.png",
+        "source": "C:\\Users\\ankur_gupta1\\AndroidStudioProjects\\PhotoIntentActivity\\app\\src\\main\\res\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ankur_gupta1\\AndroidStudioProjects\\PhotoIntentActivity\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\ankur_gupta1\\AndroidStudioProjects\\PhotoIntentActivity\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

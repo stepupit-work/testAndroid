@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ankur_gupta1\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4eea48975ed274d498972c15194245ce4e052f5c">
+        <dex dex="C:\Users\ankur_gupta1\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_e6960e7a89d66efb406ac96fa1c2d3bf7d1b6c39.jar" />
+    </item>
+    <item
+        jar="C:\Users\ankur_gupta1\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aaaffdb69daa3bbd25a6edf4c1035a86a06c51ac">
+        <dex dex="C:\Users\ankur_gupta1\AndroidStudioProjects\PhotoIntentActivity\app\build\intermediates\pre-dexed\debug\instant-run_a76f10f1c048b2b448dcda53b15dbd6e89323f35.jar" />
+    </item>
+
+</items>
